@@ -1,0 +1,36 @@
+﻿{
+  "name": "きりたん読む",
+  "version": "1.0.0",
+  "description": "kiritan APP ",
+  "background": { "scripts": [ "background.js" ] },
+  "icons": { 
+    // menu icon
+    "8": "icon48.png",
+    "16": "icon48.png", // 16×16[px]アイコンファイルのパス
+    "32": "icon48.png",
+    "48": "icon48.png", // 48×48[px]アイコンファイルのパス
+    "128": "icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon128.png", //bar icon
+    "default_popup": "index.html"
+  },
+
+  "permissions": [
+    "nativeMessaging",
+    "tabs",
+    "contextMenus"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [ "content.js" ],
+      "run_at": "document_start"
+    }
+  ],
+  "minimum_chrome_version": "6.0.0.0",
+  "manifest_version": 2
+}
