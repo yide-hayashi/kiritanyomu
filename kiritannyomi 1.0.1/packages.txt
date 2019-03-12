@@ -4,3 +4,5 @@ CefSharp.Common.71.0.0
 CefSharp.WinForms.71.0.0
 CoreTweet.1.0.0.483
 Newtonsoft.Json.9.0.1
+
+for ver 1.0.1
