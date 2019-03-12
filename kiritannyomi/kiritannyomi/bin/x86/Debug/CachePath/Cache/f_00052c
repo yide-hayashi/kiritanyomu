@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」開催中！ | プリンセスコネクト！Re:Dive (プリコネR) 公式サイト | Cygames</title>
+<meta name="description" content="「プリンセスコネクト！Re:Dive (プリコネR)」公式サイトです。最新情報をお届けします。">
+<meta name="keywords" content="プリンセスコネクト,Re:Dive,プリコネ,プリコネR,リダイブ,公式,Cygames">
+<meta name="viewport" content="width=980">
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery-1.11.3.min.js?=170714-1500"></script> 
+<script>
+function toPcCharaPage() {
+  var path = '/character/';
+  var res = location.href.split('/');
+  var folder = res[res.length - 2];
+  if(folder.indexOf('other') != -1) {
+    if(folder !== "other"){
+      location.href = path + 'other/#' + folder;
+    }
+  }else{
+    location.href = path + '#' + folder;
+  }
+}
+
+function toSpCharaPage() {
+  var path = '/character/';
+  var hash = location.hash.slice(1);
+  location.href = path + hash;
+}
+
+if (location.pathname.match(/^\/character\/$/) && location.hash === '#other') {
+  location.href = '/character/other/';
+} else {
+  if ('pc' === 'pc') {
+    if (location.pathname.match(/^\/character\/.+/)) toPcCharaPage();
+  } else if ('pc' === 'sp') {
+    if (location.pathname.match(/^\/character\/$/) && location.hash) toSpCharaPage();
+  }
+}
+</script>
+<!-- OGP -->
+<meta property="og:title" content="ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」開催中！ | プリンセスコネクト！Re:Dive (プリコネR) 公式サイト | Cygames">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://priconne-redive.jp/news/information/3133/">
+<meta property="og:description" content="「プリンセスコネクト！Re:Dive (プリコネR)」公式サイトです。最新情報をお届けします。">
+<meta property="og:site_name" content="プリンセスコネクト！Re:Dive (プリコネR)">
+
+<meta property="twitter:url" content="https://priconne-redive.jp/news/information/3133/">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="プリンセスコネクト！Re:Dive (プリコネR)">
+<meta property="twitter:description" content="「プリンセスコネクト！Re:Dive (プリコネR)」公式サイトです。最新情報をお届けします。">
+
+<meta property="og:image" content="https://priconne-redive.jp/ele-wp/wp-content/uploads/2019/01/0442bbef9ce403f6be1dafb1b8f3cc9b.jpg">
+<meta property="twitter:image" content="https://priconne-redive.jp/ele-wp/wp-content/uploads/2019/01/0442bbef9ce403f6be1dafb1b8f3cc9b.jpg">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3LC86B');</script>
+<!-- End Google Tag Manager -->
+
+<!-- FAVICON -->
+<link rel="shortcut icon" type="image/x-icon" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/favicon.ico">
+<link rel="icon" type="image/png" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/favicon_16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/favicon_32x32.png" sizes="32x32">
+
+<!-- CSS -->
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/html5reset-1.6.1.css?=170714-1500">
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/module.css?=170714-1500">
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/shared.css?=180206-1500">
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/colorbox.css?=170714-1500">
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/jquery.mCustomScrollbar.css?=170714-1500">
+	<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/autopager.css">
+<link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/news.css?=180903-1630">
+  <link rel="stylesheet" href="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/css/shared-animate.css?=170714-1500">
+<script>
+  var template_url = "https://priconne-redive.jp/ele-wp/wp-content/themes/redive";
+</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/priconne-redive.jp\/ele-wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='https://priconne-redive.jp/ele-wp/wp-content/plugins/tablepress/css/default.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://priconne-redive.jp/wp-json/' />
+<link rel="canonical" href="https://priconne-redive.jp/news/information/3133/" />
+<link rel='shortlink' href='https://priconne-redive.jp/?p=3133' />
+<link rel="alternate" type="application/json+oembed" href="https://priconne-redive.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpriconne-redive.jp%2Fnews%2Finformation%2F3133%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://priconne-redive.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpriconne-redive.jp%2Fnews%2Finformation%2F3133%2F&#038;format=xml" />
+
+</head>
+<body id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3LC86B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.7";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- ▽▽ LOADING ▽▽ -->
+<div class="loading loading-in ready"></div>
+<div class="loading loading-out">
+	<div id="loading_character" class="ready">
+				<div class="charcter-container char01"></div>
+		<div class="text_loading hide">
+			<span class="icon_loading"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/loading/icon-loading.png?=170706-1235" width="16" height="16" alt="loading..."></span>
+			<span><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/loading/text-loading.png?=170706-1235" width="88" height="20" alt="loading..."></span>
+		</div>
+	</div>
+</div>
+<script>
+var isLoadingCut = false;
+if(document.referrer.indexOf(location.hostname) != -1 || location.pathname != "/") {
+	document.getElementsByClassName("loading")[0].style.display = "none";
+	document.getElementsByClassName("loading")[1].style.display = "none";
+	isLoadingCut = true;
+}
+</script><div id="wrapper" class="">
+    
+        <header>
+        <div class="header-inner">
+          <h1><a href="https://priconne-redive.jp/"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/logo_in.png?=170705-1632" alt="プリンセスコネクト！Re:Dive" width="250" height="70"></a></h1>
+          <nav class="navi">
+            <ul>
+              <li class="navi_news"><a href="https://priconne-redive.jp/news/">ニュース</a></li>
+              <li class="navi_introduction"><a href="https://priconne-redive.jp/introduction/">イントロダクション</a></li>
+              <li class="navi_story"><a href="https://priconne-redive.jp/story/">ストーリー</a></li>
+              <li class="navi_character"><a href="https://priconne-redive.jp/character/">キャラクター</a></li>
+              <li class="navi_system"><a href="https://priconne-redive.jp/gamesystem/">ゲームシステム</a></li>
+              <li class="navi_movie"><a href="https://priconne-redive.jp/movie/">ムービー</a></li>
+              <li class="navi_fankit"><a href="https://priconne-redive.jp/fankit/">ファンキット</a></li>
+              <li class="tw"><a class="static-link" href="https://twitter.com/priconne_redive" target="_blank"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/icon-tw_d.png" height="20" width="20" alt=""></a></li>
+              <li class="icon-youtube"><a class="static-link" href="https://www.youtube.com/channel/UCiPSajGFI4ja74nYPU1MexA" target="_blank"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/icon-youtube_d.png?=180123-2000" height="14" width="21" alt=""></a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+
+    <div id="contents">
+      <h2 class="page-title hide"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/news/h2.png" height="89" width="265" alt="ニュース"></h2>
+      <div class="container short-delay contents-fade">
+        <!--ぱんくず -->
+        <ul class="breadcrumb">
+          <li><a href="https://priconne-redive.jp">トップ</a></li>
+          <li><a href="https://priconne-redive.jp/news/">ニュース</a></li>
+          <li>ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」開催中！</li>
+        </ul>
+        <!--/ ぱんくず -->
+
+        <ul class="news-category current_14 current_9">
+          	<li class="cat-item cat-item-14"><a href="https://priconne-redive.jp/news/" >すべて</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://priconne-redive.jp/news/information/" >お知らせ</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://priconne-redive.jp/news/update/" >アップデート</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://priconne-redive.jp/news/maintenance/" >メンテナンス</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://priconne-redive.jp/news/event/" >イベント</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://priconne-redive.jp/news/goods/" >グッズ</a>
+</li>
+        </ul>
+
+                    
+        <article class="contents-body">
+          <h3>ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」開催中！</h3>
+          <div class="meta-info">
+            <time class="time">2019.01.31</time>
+            <ul class="post-categories">
+	<li><a href="https://priconne-redive.jp/news/" rel="category tag">すべて</a></li>
+	<li><a href="https://priconne-redive.jp/news/information/" rel="category tag">お知らせ</a></li></ul>          </div>
+          <div class="contents-text">
+            <img width="1200" height="630" src="https://priconne-redive.jp/ele-wp/wp-content/uploads/2019/01/0442bbef9ce403f6be1dafb1b8f3cc9b.jpg" class="attachment-full size-full wp-post-image" alt="ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」開催中！" />            <p>プリンセスコネクト！Re:Dive運営事務局です。</p>
+<p>2019/01/31(木) 12:00から、ストーリーイベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」を開催中です！</p>
+<p>イベント「バトルオブバレンタイン！想いぶつかるスウィートバトル」は、イベント限定のクエストやボスを討伐し、報酬獲得を目指すイベントです。</p>
+<p>また、本イベント限定キャラ「エリコ（バレンタイン）」が登場します。<br />
+「エリコ（バレンタイン）」はイベントをプレイし、特定のミッションをクリアすることで仲間にできます。</p>
+<p>イベントをプレイして「エリコ（バレンタイン）のメモリーピース」や「リノのメモリーピース」を集めましょう！<br />
+「エリコ（バレンタイン）」は本イベント限定のキャラクターです。このチャンスをお見逃しなく！</p>
+<p>■イベント開催期間<br />
+2019/01/31(木) 12:00 ～ 2019/02/14(木) 14:59</p>
+<p>■報酬受け取り期間<br />
+2019/02/14(木) 15:00 ～ 2019/02/18(月) 14:59<br />
+※「イベントミッション」報酬の受け取りと、「討伐証交換」が可能です。</p>
+<p>■前回のストーリーイベントからの変更点<br />
+・討伐証交換のランダム装備BOXのラインナップ調整を行いました。</p>
+<p>・ボスバトル「NORMAL」と「HARD」において、特定の条件を達成すると、スキップチケットを消費してバトルを行わずに、ボスバトルをクリアできるようになりました。</p>
+<p>■イベント限定キャラ<br />
+今回登場する「エリコ（バレンタイン）」は本イベントをプレイし、イベント限定キャラの解放ミッションをクリアすると仲間にすることができます。</p>
+<p>ミッション内容は下記になります。</p>
+<p>・イベント期間中にイベントボス（NORMAL限定）を1体討伐</p>
+<p>また、イベント限定キャラ登場に合わせ、討伐証交換のリセット5回目以降のラインナップすべてに「エリコ（バレンタイン）」のメモリーピース×3が含まれます。<br />
+イベント限定キャラ登場の特別な討伐証ラインナップです。イベントをプレイして「エリコ（バレンタイン）」の才能開花をぜひ目指してください！<br />
+「エリコ（バレンタイン）」のメモリーピースは、仲間にすると女神の秘石ショップに表示されるようになります。</p>
+<p>今回追加された「エリコ（バレンタイン）」のキャラクターストーリーは、全4話となります。<br />
+2話目以降の解放条件は、下記のとおりです。</p>
+<p>・第2話：該当キャラの絆ランクを4にする<br />
+・第3話：該当キャラの絆ランクを5にする<br />
+・第4話：該当キャラの絆ランクを8にする</p>
+<p>なお、絆ランクの上昇に必要な絆Ptや、絆ランクを5以上に上げるための条件は、他のキャラと同様となります。<br />
+※「エリコ（バレンタイン）」は、今後再登場する場合があります。</p>
+<p>■ボスバトル<br />
+ボスバトルは、イベント期間中に挑戦できるイベント限定のバトルです。<br />
+ボスバトルには、「NORMAL」と「HARD」と「VERY HARD」の3種類の難易度があります。<br />
+※「VERY HARD」は1日1体まで討伐可能です。討伐可能体数は、毎日「05:00」に更新されます。</p>
+<p>ボスバトルに挑戦するには、ボスチケットが必要です。<br />
+ボスチケットは、イベントログインボーナスやイベントクエストなどで獲得できます。</p>
+<p>ボスを1回で倒しきれなかった場合、ボスチケットを消費して何度でも再挑戦できます。<br />
+再挑戦時にボスの残りHPは、引き継がれます。<br />
+再挑戦時のキャラHPは、MAXで開始されます。またTPのゲージは、リセットされた状態で開始されます。</p>
+<p>ボスバトルはリタイアできません。</p>
+<p>■スペシャルバトル<br />
+バトルの進行度に応じてモードが切り替わる特別なバトルで「VERY HARD」よりさらに強力なボスバトルです。<br />
+※モードは、全3モードあり、モードが切り替わった後に、切り替わり前のモードには戻れません。<br />
+※1回の挑戦でモードをまたいだ場合、状況を引き継いでそのままバトルを行えます。<br />
+モードをまたいだ際、引き継ぐ内容の詳細は下記になります。<br />
+・バトルの残り時間<br />
+・味方のHP、TP</p>
+<p>スペシャルバトルの解放条件は下記になります。</p>
+<p>・討伐証交換3回目のラインナップ内のリセット対象報酬を引くこと</p>
+<p>また、スペシャルバトル専用のミッションも追加されているので、バトルを進めてミッション達成を目指しましょう。</p>
+<p>■ボススキップについて<br />
+今回のイベントから「NORMAL」と「HARD」のボスバトルにスキップ機能が追加されました。<br />
+解放条件は下記になります。</p>
+<p>・NORMALボス解放条件<br />
+「1回のバトルでボスバトル(NORMAL)に勝利」を3回達成する。</p>
+<p>・HARDボス解放条件<br />
+「1回のバトルでボスバトル(HARD)に勝利」を3回達成する。</p>
+<p>ボスバトルをスキップする際、ボスチケットとスキップチケットが消費されます。<br />
+ボスチケットの消費枚数は、それぞれの難易度のボスバトルに挑戦する際と同じ枚数を消費します。</p>
+<p>■討伐証交換<br />
+イベントクエストやボスを討伐すると「討伐証」を獲得できます。</p>
+<p>イベント内の［討伐証交換］にて、集めた討伐証を使い、メモリーピースやジュエルなどの報酬を獲得できます。<br />
+※討伐証交換で獲得した報酬は、プレゼントボックスに贈られます。</p>
+<p>リセット対象報酬を獲得すると、ラインナップのリセットが可能になります。</p>
+<p>各ラインナップのリセット対象報酬は下記のとおりです。</p>
+<p>・ラインナップ1：リノのメモリーピース×20<br />
+・ラインナップ2：エリコ（バレンタイン）のメモリーピース×25<br />
+・ラインナップ3：リノのメモリーピース×30<br />
+・ラインナップ4：エリコ（バレンタイン）のメモリーピース×40</p>
+<p>ラインナップ5以降は、ラインナップ内のすべての報酬を交換するとリセットできます。<br />
+また、ラインナップ5以降のすべてのラインナップには「エリコ（バレンタイン）のメモリーピース×3」が含まれています。</p>
+<p>■ミニゲーム<br />
+今回のイベントでは、イベントクエスト 1-5(NORMAL)をクリアすることで、ミニゲームが解放されます。<br />
+ミニゲームがプレイできる期間は本イベント開催中のみになります。<br />
+ミニゲームをプレイし、獲得したポイントに応じて報酬を獲得できます。<br />
+ポイントを獲得できる期間は本イベント開催期間中のみになります。<br />
+獲得した報酬は、プレゼントボックスに贈られます。<br />
+※本イベント開催期間終了後もイベントストーリー2話を視聴した際に、ミニゲームをお楽しみいただくことができます。</p>
+<p>また、デイリーミッションとイベントログインボーナスで、ミニゲームで使用できる専用アイテムを獲得できます。<br />
+ミニゲームで使用できる専用アイテムは下記のとおりです。</p>
+<p>・普通のカカオ<br />
+・完熟カカオ<br />
+・極上カカオ<br />
+※「普通のカカオ」はアイテムを消費せずに使用できます。</p>
+<p>■イベントミッション<br />
+イベントミッションは、イベント期間中に挑戦可能なミッションです。<br />
+イベントミッションは、デイリーミッション、ノーマルミッション、スペシャルミッションの3種類があります。<br />
+上記のミッションを達成することで、報酬として討伐証やメモリーピースを獲得できます。</p>
+<p>※イベントクエストをクリアして獲得したクリアランクの★は、通常のミッション「クリアランクの★を○個集めよう」の対象です。</p>
+<p>■イベントログインボーナス<br />
+イベント期間中にイベントページに移動すると、1日1回「ボスチケット×3」「完熟カカオ×3」「極上カカオ×1」を獲得できます。</p>
+<p>イベントログインボーナスは、毎日「05:00」に更新されます。<br />
+※イベントログインボーナスで獲得した報酬は、プレゼントボックスに贈られます。</p>
+<p>■現在確認している不具合について<br />
+ストーリーイベントにおいて、下記の不具合を確認しております。</p>
+<p>・ボスバトルにおいて、スキップ機能を解放した際に出るダイアログが正常に表示されない場合がある。<br />
+・ミニゲームプレイ中に「05:00」をまたいだ場合、報酬のダイアログが表示されず、日付変更のダイアログが表示される。<br />
+※獲得した報酬は、プレゼントボックスに贈られることを確認しております。</p>
+<p>プレイヤーの皆様には、ご迷惑をおかけしますことを、お詫びいたします。</p>
+<p>また、2019/01/24(木)のアップデートにて下記の不具合を修正いたしました。</p>
+<p>■修正した不具合<br />
+・特定の条件下において、スペシャルバトルのチュートリアルが発生しない場合がある。<br />
+・イベントストーリーにおける、イベントマップ画面にて、特定の条件下で進行不可になる場合がある。</p>
+<p>■注意事項<br />
+1. ストーリーイベントについての詳細は、イベントトップページ右上の［ヘルプ］からご確認ください。</p>
+<p>2. イベントクエスト参加には、メインクエスト 2-12(NORMAL)をクリアする必要があります。</p>
+<p>3. 本イベントで獲得した討伐証、ボスチケット、ミニゲームで使用できる専用アイテムは、今後開催されるイベントでは使用できません。</p>
+<p>4. バトル中にイベント期間が終了した場合、勝敗が決まるまでバトルが行われます。バトルの勝敗に応じた報酬も獲得できます。</p>
+<p>5. 「バトルオブバレンタイン！想いぶつかるスウィートバトル」の開催期間および内容は、予告なく変更する場合があります。</p>
+<p>今後とも「プリンセスコネクト！Re:Dive」をよろしくお願いいたします。</p>
+          </div>
+        </article>
+
+        <ul class="pager">
+                      <li class="prev"><a href="https://priconne-redive.jp/news/information/3106/" rel="prev">「イベントクエスト」プレイヤーEXP獲得量1.5倍キャンペーン！</a></li>
+                                <li class="next"><a href="https://priconne-redive.jp/news/information/3100/" rel="next">期間限定キャラ「シズル（バレンタイン）」登場！！【2019/01/31(木) 12:00 追記】</a></li>
+                  </ul>
+                <!-- /#contents --></div>
+
+    </div>
+        <footer>
+      <div class="bg-gray">
+        <div class="bg-gray-inner">
+          <p class="logo"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/logo.png?=170707-2100" height="78" width="282" alt=""></p>
+          <div class="column">
+            名称：プリンセスコネクト！Re:Dive<br>
+            ジャンル：アニメRPG<br>
+            対応機種：iOS/Android<br>
+            価格：基本無料（一部アイテム課金制）
+          </div>
+        </div>
+      </div>
+      <p class="page-top"><a class="static-link" href="#wrapper"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/btn-page-top_d.png" height="47" width="47" alt="pagetop"></a></p>
+      <div class="footer-inner">
+        <nav>
+          <ul>
+            <li><a href="https://priconne-redive.jp/">公式トップ</a></li>
+            <li><a href="https://priconne-redive.jp/about/">このサイトについて</a></li>
+            <li><a href="https://priconne-redive.jp/privacy/">プライバシーポリシー</a></li>
+            <li><a href="https://priconne-redive.jp/terms/">利用規約・権利表記</a></li>
+            <li><a href="https://priconne-redive.jp/device/">推奨端末一覧</a></li>
+            <li><a href="/app/faq/">FAQ・お問い合わせ</a></li>
+          </ul>
+        </nav>
+        <p class="footer-logo"><a href="http://www.cygames.co.jp/" target="_blank"><img src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/images/shared/footer-logo.png" height="22" width="67" alt="Cygames"></a></p>
+        <p class="copyright">&copy; Cygames, Inc.</p>
+      </div>
+    </footer>
+<!-- /#wrapper --></div>
+<!-- JS -->
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery.easing.plugin.js?=170714-1510"></script> 
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery.ScrolltoTop.js?=170714-1510"></script> 
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/rollover.js?=170714-1510"></script> 
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery.colorbox-min.js?=170714-1510"></script>
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery.mCustomScrollbar.concat.min.js?=170714-1510"></script>
+<script>
+  $(function(){
+    $(".modal").colorbox({
+      iframe:true,
+      fixed: true,
+      width: '100%',
+      innerHeight: 680
+    });
+    $(".news-popup").colorbox({
+      iframe:true,
+      fixed: true,
+      innerWidth: 900,
+      innerHeight: 610
+    });
+    $(".youtube").colorbox({
+      iframe: true,
+      innerWidth: 853,
+      innerHeight: 480,
+      scrolling: false
+    });
+  });
+  // 動画の場合、閉じるボタン位置調整
+  $(".youtube").on("click", function(){
+   if(!$("body").hasClass("cboxClose-movie")) {
+     $("body").removeClass("cboxClose-news-popup");
+     $("body").addClass("cboxClose-movie");
+   }
+  });
+  $(".news-popup").on("click", function(){
+   if(!$("body").hasClass("cboxClose-news-popup")) {
+     $("body").removeClass("cboxClose-movie");
+     $("body").addClass("cboxClose-news-popup");
+   }
+  });
+  $(window).resize(function(){
+    $(".modal").colorbox.resize({width:'100%' , height: 680});
+  });
+</script>
+  <script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/jquery.mCustomScrollbar.concat.min.js?=170714-1510"></script>
+<script>
+$(function(){
+  $('.article-inner').mCustomScrollbar({
+    scrollButtons:{enable:false}
+  });
+});
+</script>
+  <script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/preloadjs-0.4.1.min.js?=170714-1510"></script> 
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/preload.js?=170714-1510"></script> 
+<script src="https://priconne-redive.jp/ele-wp/wp-content/themes/redive/js/shared.js?=180707-1510"></script> 
+
+<script type='text/javascript' src='https://priconne-redive.jp/ele-wp/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+</body>
+</html>
